@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proximo - El Olympic.CSharp", "Proximo - El Olympic.CSharp.csproj", "{03F3FFBD-05E0-6D38-7644-E5E9D3F5F6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proximo - El Olympic.CSharp.Editor", "Proximo - El Olympic.CSharp.Editor.csproj", "{94ABCAD3-B4B5-56D0-5486-D5B4FAB5EF31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F3FFBD-05E0-6D38-7644-E5E9D3F5F6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F3FFBD-05E0-6D38-7644-E5E9D3F5F6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F3FFBD-05E0-6D38-7644-E5E9D3F5F6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F3FFBD-05E0-6D38-7644-E5E9D3F5F6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94ABCAD3-B4B5-56D0-5486-D5B4FAB5EF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94ABCAD3-B4B5-56D0-5486-D5B4FAB5EF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94ABCAD3-B4B5-56D0-5486-D5B4FAB5EF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94ABCAD3-B4B5-56D0-5486-D5B4FAB5EF31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
